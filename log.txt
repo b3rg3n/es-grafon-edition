@@ -1,0 +1,36 @@
+Thu May 25 14:51:05 2023
+Windows-10-10.0.18362
+Ren'Py 8.1.0.23051307
+ 
+
+Bootstrap to the start of init.init. took 0.12s
+Early init. took 0.00s
+Loader init. took 0.28s
+Loading error handling. took 0.53s
+Loading script. took 128.33s
+Loading save slot metadata. took 0.02s
+Loading persistent. took 0.00s
+ - Init at game/sprites.rpy:2 took 0.37316 s.
+Running init code. took 0.76s
+Loading analysis data. took 0.00s
+Analyze and compile ATL. took 0.45s
+Reloading save slot metadata. took 0.02s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\Admin\\AppData\\Roaming/RenPy/backups\\es-grafon-edition':
+Dump and make backups. took 0.47s
+Cleaning cache. took 0.00s
+Making clean stores. took 0.00s
+Initial gc. took 1.15s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object. took 0.00s
+Cleaning stores took 0.00s
+Init translation took 1.11s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.13s
+Save screen analysis took 0.06s
+Prepare screens took 0.64s
+Save pyanalysis. took 0.09s
+Save bytecode. took 0.85s

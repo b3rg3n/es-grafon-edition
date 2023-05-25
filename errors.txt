@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/tl/english/scenario/epilogue_mi.rpy", line 12482: expected ':' not found.
+    translate english epilogue_mi_5e34
+                                      ^
+
+Ren'Py Version: Ren'Py 7.6.0.23051307
+Thu May 25 13:21:43 2023
